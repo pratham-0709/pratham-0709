@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratham-0709" alt="pratham-0709" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://eddtechcorp.github.io/portfolio/](https://eddtechcorp.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio.teckexplorers.com)
 
 - 💬 Ask me about **You can ask me anything if I Know I can Answer, If No but will help you find that !**
 
